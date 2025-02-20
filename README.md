@@ -1,2 +1,5 @@
-# Discussions
-KayleAI is committed to keeping children safe online, and here, you can discuss ways in which we can improve upon!
+# Kayle Care
+
+At Kayle, we care about what we build and the community we create.
+
+This repository is dedicated to resolving issues, requesting features, and other important things.
